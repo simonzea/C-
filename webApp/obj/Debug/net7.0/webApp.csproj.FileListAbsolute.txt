@@ -31,3 +31,16 @@
 /Users/simon.zeag/repo/c#/myFisrtApp/webApp/obj/Debug/net7.0/webApp.pdb
 /Users/simon.zeag/repo/c#/myFisrtApp/webApp/obj/Debug/net7.0/webApp.genruntimeconfig.cache
 /Users/simon.zeag/repo/c#/myFisrtApp/webApp/obj/Debug/net7.0/ref/webApp.dll
+/Users/simon.zeag/repo/c#/myFisrtApp/webApp/bin/Debug/net7.0/AWSSDK.Core.dll
+/Users/simon.zeag/repo/c#/myFisrtApp/webApp/bin/Debug/net7.0/AWSSDK.SecurityToken.dll
+/Users/simon.zeag/repo/c#/myFisrtApp/webApp/bin/Debug/net7.0/DnsClient.dll
+/Users/simon.zeag/repo/c#/myFisrtApp/webApp/bin/Debug/net7.0/MongoDB.Bson.dll
+/Users/simon.zeag/repo/c#/myFisrtApp/webApp/bin/Debug/net7.0/MongoDB.Driver.dll
+/Users/simon.zeag/repo/c#/myFisrtApp/webApp/bin/Debug/net7.0/MongoDB.Driver.Core.dll
+/Users/simon.zeag/repo/c#/myFisrtApp/webApp/bin/Debug/net7.0/MongoDB.Libmongocrypt.dll
+/Users/simon.zeag/repo/c#/myFisrtApp/webApp/bin/Debug/net7.0/SharpCompress.dll
+/Users/simon.zeag/repo/c#/myFisrtApp/webApp/bin/Debug/net7.0/Snappier.dll
+/Users/simon.zeag/repo/c#/myFisrtApp/webApp/bin/Debug/net7.0/ZstdSharp.dll
+/Users/simon.zeag/repo/c#/myFisrtApp/webApp/bin/Debug/net7.0/runtimes/linux/native/libmongocrypt.so
+/Users/simon.zeag/repo/c#/myFisrtApp/webApp/bin/Debug/net7.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/simon.zeag/repo/c#/myFisrtApp/webApp/bin/Debug/net7.0/runtimes/win/native/mongocrypt.dll

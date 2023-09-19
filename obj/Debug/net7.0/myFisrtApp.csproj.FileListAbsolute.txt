@@ -1,0 +1,5 @@
+/Users/simon.zeag/repo/c#/myFisrtApp/obj/Debug/net7.0/myFisrtApp.csproj.AssemblyReference.cache
+/Users/simon.zeag/repo/c#/myFisrtApp/obj/Debug/net7.0/myFisrtApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simon.zeag/repo/c#/myFisrtApp/obj/Debug/net7.0/myFisrtApp.AssemblyInfoInputs.cache
+/Users/simon.zeag/repo/c#/myFisrtApp/obj/Debug/net7.0/myFisrtApp.AssemblyInfo.cs
+/Users/simon.zeag/repo/c#/myFisrtApp/obj/Debug/net7.0/myFisrtApp.csproj.CoreCompileInputs.cache

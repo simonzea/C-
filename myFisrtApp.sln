@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuaggerMongo", "SuaggerMong
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webApp", "webApp\webApp.csproj", "{56E0443E-DEF3-4DD5-831C-D6556851B998}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "workerTask", "workerTask\workerTask.csproj", "{7F06834A-F6AD-43EA-8B9F-ECCBEB8D5383}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{56E0443E-DEF3-4DD5-831C-D6556851B998}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56E0443E-DEF3-4DD5-831C-D6556851B998}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56E0443E-DEF3-4DD5-831C-D6556851B998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F06834A-F6AD-43EA-8B9F-ECCBEB8D5383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F06834A-F6AD-43EA-8B9F-ECCBEB8D5383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F06834A-F6AD-43EA-8B9F-ECCBEB8D5383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F06834A-F6AD-43EA-8B9F-ECCBEB8D5383}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

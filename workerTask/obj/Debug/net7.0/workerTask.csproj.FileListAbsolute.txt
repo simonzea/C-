@@ -31,3 +31,4 @@
 /Users/simon.zeag/repo/c#/myFisrtApp/workerTask/obj/Debug/net7.0/workerTask.pdb
 /Users/simon.zeag/repo/c#/myFisrtApp/workerTask/obj/Debug/net7.0/workerTask.genruntimeconfig.cache
 /Users/simon.zeag/repo/c#/myFisrtApp/workerTask/obj/Debug/net7.0/ref/workerTask.dll
+/Users/simon.zeag/repo/c#/myFisrtApp/workerTask/bin/Debug/net7.0/TimeZoneConverter.dll

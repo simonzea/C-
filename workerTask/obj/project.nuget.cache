@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "w7bGkOjVwybQGOGebdkITgQNSYP9xbXloPCV/yrVxuWOzSk6JFv8bJxO6fdZHHIryaGmzjI9KbLQ3ICy2P45xg==",
+  "dgSpecHash": "w6VcCkfd8Fg7Hvwt7ddslkaqqrn/cKFFZx9YepKbAGXUyWzVQIpRTNLFbm8aauVvShG9c4V7WPE2EC8CAc29RQ==",
   "success": true,
   "projectFilePath": "/Users/simon.zeag/repo/c#/myFisrtApp/workerTask/workerTask.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,8 @@
     "/Users/simon.zeag/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "/Users/simon.zeag/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "/Users/simon.zeag/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "/Users/simon.zeag/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+    "/Users/simon.zeag/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/Users/simon.zeag/.nuget/packages/timezoneconverter/6.1.0/timezoneconverter.6.1.0.nupkg.sha512"
   ],
   "logs": []
 }
